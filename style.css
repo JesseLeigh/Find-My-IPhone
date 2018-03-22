@@ -1,0 +1,63 @@
+.phone {
+  width: 300px;
+  height: 570px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  border-radius: 5%;
+  border: solid;
+}
+
+#image {
+  width: 250px;
+  height: 200px;
+  float: clear;
+  border-radius: 7%;
+  margin: 10px;
+}
+
+.alert {
+  width: 610px;
+  padding: 10px 10px 10px 10px;
+  background-color: lightgray;
+  border-radius: 10px;
+  margin: auto;
+}
+
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button {
+  border-radius: 6px;
+  border: 2px solid #E5E5E5;
+  background: #ffffff;
+  padding: 8px;
+  font-size: 18px;
+}
+
+#login {
+  width: 99%;
+  height: 3%;
+  display: block;
+  align-items: center;
+}
+
+.links {
+  padding: 160px 0 16px 0;
+  text-align: center;
+  width: 300px;
+}
+
+.links a {
+  padding: 14px 0 16px 0;
+  text-decoration: none;
+  font-size: 15px;
+  color: green; 
